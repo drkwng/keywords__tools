@@ -1,4 +1,5 @@
 *.txt
+*.spec
 [!example]*.csv
 dist/
 build/
