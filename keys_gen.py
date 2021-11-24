@@ -75,8 +75,8 @@ if __name__ == '__main__':
 
     mode = 'full'
     # modes supported:
-    # - full (default) - all possible unique combinations permuted (ALL, CAAAAAAARL)
-    # - all-to-all - all to all unique combinations (not permuted). This means that basis1 queries would be
+    # full (default) - all possible unique combinations permuted (ALL, CAAAAAAARL)
+    # all-to-all - all to all unique combinations (not permuted). This means that basis1 queries would be
 
     keywords = KeywordsGenerator(filename, mode)
     keywords.worker(res_file)
