@@ -73,7 +73,7 @@ if __name__ == '__main__':
     filename = 'example_keys_gen.csv'
     res_file = 'result.txt'
 
-    mode = 'all-to-all_permuted'
+    mode = 'full'
     # modes supported:
     # - full (default) - all possible unique combinations permuted (ALL, CAAAAAAARL)
     # - all-to-all - all to all unique combinations (not permuted). This means that basis1 queries would be
