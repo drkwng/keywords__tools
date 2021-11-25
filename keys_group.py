@@ -1,3 +1,6 @@
+# Made by @drkwng (https://github.com/drkwng/keywords__tools)
+# Visit my Telegram Channel (https://t.me/drkwng)
+# Website: https://drkwng.rocks
 import csv
 
 
