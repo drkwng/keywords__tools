@@ -1,6 +1,8 @@
-*.txt
-*.spec
-[!example]*.csv
+__pycache__/
 dist/
 build/
-__pycache__/
+*.txt
+[!example]*.txt
+*.spec
+*.csv
+[!example]*.csv
