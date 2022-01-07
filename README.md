@@ -1,4 +1,4 @@
-# Keywords Tools
+# Keywords Tools by [DRKWNG](https://drkwng.rocks)
 Different tools to process and generate huge lists of keywords.
 
 1. **keys_gen.py** - generates keywords combining queries given in "example_keys_gen.csv". Modes supported:
